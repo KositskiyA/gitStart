@@ -1,0 +1,5 @@
+D:\C#\домашка\kursi_homework4\Dokuments\Player\bin\Debug\Player.exe.config
+D:\C#\домашка\kursi_homework4\Dokuments\Player\bin\Debug\Player.exe
+D:\C#\домашка\kursi_homework4\Dokuments\Player\bin\Debug\Player.pdb
+D:\C#\домашка\kursi_homework4\Dokuments\Player\obj\Debug\Player.exe
+D:\C#\домашка\kursi_homework4\Dokuments\Player\obj\Debug\Player.pdb
