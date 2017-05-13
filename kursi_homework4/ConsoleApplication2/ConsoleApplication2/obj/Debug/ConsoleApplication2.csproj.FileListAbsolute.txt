@@ -1,1 +1,2 @@
 D:\C#\домашка\kursi_homework4\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\test\kursi_homework4\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
