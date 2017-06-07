@@ -1,0 +1,9 @@
+d:\dell\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+d:\dell\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\dell\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\dell\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\dell\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\dell\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+d:\dell\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\dell\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+d:\dell\WindowsFormsApplication1\obj\Debug\WindowsFormsApp2.MainForm.resources

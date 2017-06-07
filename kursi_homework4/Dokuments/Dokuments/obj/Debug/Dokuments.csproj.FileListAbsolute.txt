@@ -1,6 +1,0 @@
-D:\C#\домашка\kursi_homework4\Dokuments\Dokuments\bin\Debug\Dokuments.exe.config
-D:\C#\домашка\kursi_homework4\Dokuments\Dokuments\bin\Debug\Dokuments.exe
-D:\C#\домашка\kursi_homework4\Dokuments\Dokuments\bin\Debug\Dokuments.pdb
-D:\C#\домашка\kursi_homework4\Dokuments\Dokuments\obj\Debug\Dokuments.csprojResolveAssemblyReference.cache
-D:\C#\домашка\kursi_homework4\Dokuments\Dokuments\obj\Debug\Dokuments.exe
-D:\C#\домашка\kursi_homework4\Dokuments\Dokuments\obj\Debug\Dokuments.pdb
